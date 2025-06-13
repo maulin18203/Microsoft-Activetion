@@ -7,6 +7,7 @@ Method 1 - PowerShell (Windows 8 and later) ❤️
 Open PowerShell
 To do that, press the Windows key + X, then select PowerShell or Terminal.
 
+
 Copy and paste the code below, then press enter.
 
 irm https://get.activated.win | iex
